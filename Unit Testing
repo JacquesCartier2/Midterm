@@ -1,0 +1,3 @@
+  Unit testing is when special code is written to test a function or class. It helps keep code bug-free by allowing developers to test functions under
+many different parameters. The unit test may be used to ensure the function works as intended after any modifications. It can be used to ensure that special
+circumstances are always handled correctly. 
